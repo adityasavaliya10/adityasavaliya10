@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="left"></h1>
 
-<!--
-**adityasavaliya10/adityasavaliya10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">I’m Aditya Savaliya, focused on Python, Data Structures & AI development.</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">🔭 Currently building: Student Tracker (Python-based)<br>🌱 Learning: Data Structures & Algorithms<br>🎯 Goal: AI Engineer / Machine Learning Developer</p>
+
+###
+
+<h2 align="left">Technologies that I Use</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 align="left">🚀 Projects</h2>
+
+###
+
+<p align="left">- Travel Budget Analyzer<br> - Student Tracker (Python) – In progress</p>
+
+###
