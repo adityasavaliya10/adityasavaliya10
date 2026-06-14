@@ -30,9 +30,9 @@
 
 ###
 
-<p align="left">- Travel Budget Analyzer<br> - Student Tracker (Python) – In progress</p>
+<p align="left">- Travel Budget Analyzer<br> - Student Tracker (Python)</p>
 
 ###
 <h2 align="left">Solved Leetcode Problems:</h2>
 
-<p>412 , 1523 , 1365 , 2520 , 9 , 1281 , 1431</p>
+<p>412 , 1523 , 1365 , 2520 , 9 , 1281 , 1431 , 1832</p>
