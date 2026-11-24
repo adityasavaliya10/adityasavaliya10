@@ -1,27 +1,35 @@
-<h1 align="left"></h1>
+```html
+<h1 align="left">Hey there! 👋 I'm Aditya Savaliya</h1>
 
 ###
 
-<h2 align="left">I’m Aditya Savaliya, focused on Python, Data Structures & AI development.</h2>
+<h2 align="left">💻 Passionate about Computer Science, Programming & Technology.</h2>
 
 ###
 
-<p align="left">🔭 Currently building: Student Tracker (Python-based)<br>🌱 Learning: Data Structures & Algorithms<br>🎯 Goal: AI Engineer / Machine Learning Developer</p>
+<p align="left">
+  🔭 Currently Building: Student Tracker (Python-based)<br>
+  🌱 Currently Learning: C++ and Data Structures & Algorithms<br>
+  💡 Passionate About: Computer Science, Software Development & Problem Solving<br>
+  🎯 Goal: To become a skilled Software Engineer and explore the world of technology.
+</p>
 
 ###
 
-<h2 align="left">Technologies that I Use</h2>
+<h2 align="left">🛠️ Technologies & Tools</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
 </div>
 
 ###
@@ -30,9 +38,29 @@
 
 ###
 
-<p align="left">- Travel Budget Analyzer<br> - Student Tracker (Python)</p>
+<p align="left">
+  - Student Tracker (Python & SQLite)<br>
+  - Travel Budget Analyzer (Python)
+</p>
 
 ###
-<h2 align="left">Solved Leetcode Problems:</h2>
 
-<p>412 , 1523 , 1365 , 2520 , 9 , 1281 , 1431 , 1832</p>
+<h2 align="left">🧠 LeetCode Journey</h2>
+
+<p align="left">
+  Continuously improving my problem-solving and algorithmic thinking.<br>
+  Problems Solved: 8+
+</p>
+
+<p align="left">
+  412 · 1523 · 1365 · 2520 · 9 · 1281 · 1431 · 1832
+</p>
+
+###
+
+<h2 align="left">⚡ My Philosophy</h2>
+
+<p align="left">
+  "Curiosity drives me to explore. Code helps me create. Computer Science inspires me to think beyond limits."
+</p>
+```
