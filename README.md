@@ -38,22 +38,13 @@
 ###
 
 <p align="left">
-  - Student Tracker (Python & SQLite)<br>
+  - Air Drawing<br>
   - Travel Budget Analyzer (Python)
 </p>
 
 ###
 
-<h2 align="left">🧠 LeetCode Journey</h2>
 
-<p align="left">
-  Continuously improving my problem-solving and algorithmic thinking.<br>
-  Problems Solved: 8+
-</p>
-
-<p align="left">
-  412 · 1523 · 1365 · 2520 · 9 · 1281 · 1431 · 1832
-</p>
 
 ###
 
