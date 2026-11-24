@@ -1,4 +1,3 @@
-```html
 <h1 align="left">Hey there! 👋 I'm Aditya Savaliya</h1>
 
 ###
@@ -63,4 +62,3 @@
 <p align="left">
   "Curiosity drives me to explore. Code helps me create. Computer Science inspires me to think beyond limits."
 </p>
-```
