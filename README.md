@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  🔭 Currently Building: Student Tracker (Python-based)<br>
+  🔭 Currently Building: Travel Budjet Analyzer (Python-based)<br>
   🌱 Currently Learning: C++ and Data Structures & Algorithms<br>
   💡 Passionate About: Computer Science, Software Development & Problem Solving<br>
   🎯 Goal: To become a skilled Software Engineer and explore the world of technology.
